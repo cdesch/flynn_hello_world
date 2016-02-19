@@ -57,6 +57,8 @@ gem 'devise'
 gem 'activeadmin', '~> 1.0.0.pre2'
 gem 'bootstrap-sass', '~> 3.3.4'
 gem 'font-awesome-rails'
+
+
 group :development do
   gem 'spring-commands-rspec'
   gem 'thin'
